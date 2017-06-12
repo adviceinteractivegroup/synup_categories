@@ -10,6 +10,10 @@ exports.categories = [
     'title': 'Acupuncture'
   },
   {
+    'category_id': 597,
+    'title': 'Adoption Service / Community Service'
+  },
+  {
     'category_id': 118,
     'title': 'Adult Education'
   },
@@ -18,12 +22,20 @@ exports.categories = [
     'title': 'Advertising'
   },
   {
+    'category_id': 543,
+    'title': 'Advertising Agency'
+  },
+  {
     'category_id': 381,
     'title': 'Afghan Restaurants'
   },
   {
     'category_id': 382,
     'title': 'African Restaurants'
+  },
+  {
+    'category_id': 522,
+    'title': 'Air Duct Cleaning'
   },
   {
     'category_id': 287,
@@ -56,6 +68,10 @@ exports.categories = [
   {
     'category_id': 328,
     'title': 'Animal Shelters'
+  },
+  {
+    'category_id': 547,
+    'title': 'Antiques'
   },
   {
     'category_id': 372,
@@ -114,6 +130,10 @@ exports.categories = [
     'title': 'Asphalt Contractor'
   },
   {
+    'category_id': 564,
+    'title': 'Assisted Living Facilities'
+  },
+  {
     'category_id': 477,
     'title': 'Auction Houses'
   },
@@ -131,7 +151,7 @@ exports.categories = [
   },
   {
     'category_id': 81,
-    'title': 'Auto Loan Provcategory_iders'
+    'title': 'Auto Loan Providers'
   },
   {
     'category_id': 82,
@@ -170,6 +190,10 @@ exports.categories = [
     'title': 'Barbecue Restaurants'
   },
   {
+    'category_id': 576,
+    'title': 'Barbeque Equipment-Outdoor Living'
+  },
+  {
     'category_id': 100,
     'title': 'Barbers'
   },
@@ -180,10 +204,6 @@ exports.categories = [
   {
     'category_id': 142,
     'title': 'Bartenders'
-  },
-  {
-    'category_id': 503,
-    'title': 'baseball'
   },
   {
     'category_id': 5,
@@ -238,6 +258,10 @@ exports.categories = [
     'title': 'Boat Repair'
   },
   {
+    'category_id': 594,
+    'title': 'Boat Tours'
+  },
+  {
     'category_id': 85,
     'title': 'Body Shops'
   },
@@ -275,11 +299,11 @@ exports.categories = [
   },
   {
     'category_id': 478,
-    'title': 'Brcategory_idal'
+    'title': 'Bridal'
   },
   {
     'category_id': 456,
-    'title': 'Brcategory_idal Shops'
+    'title': 'Bridal Shops'
   },
   {
     'category_id': 225,
@@ -298,8 +322,20 @@ exports.categories = [
     'title': 'Business Law'
   },
   {
+    'category_id': 503,
+    'title': 'Cabinet Maker'
+  },
+  {
     'category_id': 395,
     'title': 'Cafes'
+  },
+  {
+    'category_id': 524,
+    'title': 'Cajun/Creole Restaurant'
+  },
+  {
+    'category_id': 568,
+    'title': 'Calligraphy'
   },
   {
     'category_id': 274,
@@ -378,6 +414,10 @@ exports.categories = [
     'title': 'Child Care & Day Care'
   },
   {
+    'category_id': 561,
+    'title': 'Chimney Sweeps'
+  },
+  {
     'category_id': 399,
     'title': 'Chinese Restaurants'
   },
@@ -430,8 +470,16 @@ exports.categories = [
     'title': 'Community Service/Non-Profit'
   },
   {
+    'category_id': 567,
+    'title': 'Consignment'
+  },
+  {
     'category_id': 485,
     'title': 'Construction'
+  },
+  {
+    'category_id': 492,
+    'title': 'Consulting/Business Services'
   },
   {
     'category_id': 228,
@@ -546,6 +594,10 @@ exports.categories = [
     'title': 'Disc Golf'
   },
   {
+    'category_id': 585,
+    'title': 'Discount Store'
+  },
+  {
     'category_id': 12,
     'title': 'Diving'
   },
@@ -570,8 +622,16 @@ exports.categories = [
     'title': 'Driving Schools'
   },
   {
+    'category_id': 570,
+    'title': 'Drug and Alcohol Rehabilitation Center'
+  },
+  {
     'category_id': 302,
     'title': 'Dry Cleaning & Laundry'
+  },
+  {
+    'category_id': 555,
+    'title': 'Drywall Installation & Repair'
   },
   {
     'category_id': 350,
@@ -622,6 +682,10 @@ exports.categories = [
     'title': 'Environmental and Ecological Equipment and Services'
   },
   {
+    'category_id': 598,
+    'title': 'Escape Games'
+  },
+  {
     'category_id': 353,
     'title': 'Estate Planning Law'
   },
@@ -636,6 +700,14 @@ exports.categories = [
   {
     'category_id': 183,
     'title': 'Family Practice'
+  },
+  {
+    'category_id': 515,
+    'title': 'Farmers Market'
+  },
+  {
+    'category_id': 557,
+    'title': 'Farming Equipment'
   },
   {
     'category_id': 405,
@@ -671,7 +743,7 @@ exports.categories = [
   },
   {
     'category_id': 134,
-    'title': 'First Acategory_id Classes'
+    'title': 'First Aid Classes'
   },
   {
     'category_id': 407,
@@ -702,6 +774,10 @@ exports.categories = [
     'title': 'Food delivery services'
   },
   {
+    'category_id': 565,
+    'title': 'Forklift'
+  },
+  {
     'category_id': 409,
     'title': 'French Restaurant'
   },
@@ -710,8 +786,16 @@ exports.categories = [
     'title': 'Funeral Services & Cemeteries'
   },
   {
+    'category_id': 599,
+    'title': 'Furniture Repair'
+  },
+  {
     'category_id': 305,
     'title': 'Furniture Reupholstery'
+  },
+  {
+    'category_id': 509,
+    'title': 'Furniture Store'
   },
   {
     'category_id': 232,
@@ -750,6 +834,10 @@ exports.categories = [
     'title': 'Gift Shops'
   },
   {
+    'category_id': 510,
+    'title': 'Glass & Mirrors'
+  },
+  {
     'category_id': 25,
     'title': 'Go Karts'
   },
@@ -774,6 +862,10 @@ exports.categories = [
     'title': 'Guest Houses'
   },
   {
+    'category_id': 512,
+    'title': 'Gun & Ammo'
+  },
+  {
     'category_id': 27,
     'title': 'Gun/Rifle Ranges'
   },
@@ -790,12 +882,20 @@ exports.categories = [
     'title': 'Gyms'
   },
   {
+    'category_id': 601,
+    'title': 'Gynecologist'
+  },
+  {
     'category_id': 104,
     'title': 'Hair Extensions'
   },
   {
     'category_id': 105,
     'title': 'Hair Removal'
+  },
+  {
+    'category_id': 536,
+    'title': 'Hair Replacement Service'
   },
   {
     'category_id': 107,
@@ -807,7 +907,11 @@ exports.categories = [
   },
   {
     'category_id': 29,
-    'title': 'Hang Glcategory_iding'
+    'title': 'Hang Gliding'
+  },
+  {
+    'category_id': 517,
+    'title': 'Hardware Stores'
   },
   {
     'category_id': 413,
@@ -815,7 +919,7 @@ exports.categories = [
   },
   {
     'category_id': 203,
-    'title': 'Hearing Acategory_id Provcategory_iders'
+    'title': 'Hearing Aid Providers'
   },
   {
     'category_id': 235,
@@ -834,6 +938,10 @@ exports.categories = [
     'title': 'Home Cleaning'
   },
   {
+    'category_id': 540,
+    'title': 'Home Decor'
+  },
+  {
     'category_id': 204,
     'title': 'Home Health Care'
   },
@@ -844,6 +952,10 @@ exports.categories = [
   {
     'category_id': 238,
     'title': 'Home Organization'
+  },
+  {
+    'category_id': 589,
+    'title': 'Home Repairs'
   },
   {
     'category_id': 374,
@@ -859,7 +971,7 @@ exports.categories = [
   },
   {
     'category_id': 32,
-    'title': 'Horseback Rcategory_iding'
+    'title': 'Horseback Riding'
   },
   {
     'category_id': 329,
@@ -894,6 +1006,18 @@ exports.categories = [
     'title': 'Hotels'
   },
   {
+    'category_id': 527,
+    'title': 'Human Resources Consulting'
+  },
+  {
+    'category_id': 550,
+    'title': 'Hunting & Fishing Supplies'
+  },
+  {
+    'category_id': 573,
+    'title': 'Ice Cream & Frozen Yogurt'
+  },
+  {
     'category_id': 355,
     'title': 'Immigration Law'
   },
@@ -918,8 +1042,12 @@ exports.categories = [
     'title': 'Internal Medicine'
   },
   {
+    'category_id': 539,
+    'title': 'Internet Marketing Service'
+  },
+  {
     'category_id': 242,
-    'title': 'Internet Service Provcategory_iders'
+    'title': 'Internet Service Providers'
   },
   {
     'category_id': 167,
@@ -978,8 +1106,16 @@ exports.categories = [
     'title': 'Keys & Locksmith'
   },
   {
+    'category_id': 504,
+    'title': 'Kitchen Remodeler'
+  },
+  {
     'category_id': 34,
     'title': 'Kiteboarding'
+  },
+  {
+    'category_id': 534,
+    'title': 'Knife Sharpening'
   },
   {
     'category_id': 421,
@@ -1002,6 +1138,10 @@ exports.categories = [
     'title': 'Landscaping'
   },
   {
+    'category_id': 523,
+    'title': 'Land Surveying'
+  },
+  {
     'category_id': 136,
     'title': 'Language Schools'
   },
@@ -1020,6 +1160,10 @@ exports.categories = [
   {
     'category_id': 346,
     'title': 'Lawyers'
+  },
+  {
+    'category_id': 591,
+    'title': 'leak contractors'
   },
   {
     'category_id': 464,
@@ -1042,8 +1186,20 @@ exports.categories = [
     'title': 'Lighting Fixtures & Equipment'
   },
   {
+    'category_id': 584,
+    'title': 'Lighting Fixtures Supplier'
+  },
+  {
     'category_id': 289,
     'title': 'Limos'
+  },
+  {
+    'category_id': 551,
+    'title': 'Livestock Feed & Supply'
+  },
+  {
+    'category_id': 506,
+    'title': 'Loan Agency'
   },
   {
     'category_id': 445,
@@ -1052,6 +1208,10 @@ exports.categories = [
   {
     'category_id': 455,
     'title': 'Machine Shop Equipments'
+  },
+  {
+    'category_id': 507,
+    'title': 'Machine & Tool Rental'
   },
   {
     'category_id': 149,
@@ -1068,6 +1228,14 @@ exports.categories = [
   {
     'category_id': 360,
     'title': 'Marketing'
+  },
+  {
+    'category_id': 544,
+    'title': 'Marketing Agency'
+  },
+  {
+    'category_id': 545,
+    'title': 'Marketing Consultant'
   },
   {
     'category_id': 19,
@@ -1098,6 +1266,14 @@ exports.categories = [
     'title': 'Mattresses'
   },
   {
+    'category_id': 559,
+    'title': 'Meat shops'
+  },
+  {
+    'category_id': 533,
+    'title': 'Mediation Services'
+  },
+  {
     'category_id': 210,
     'title': 'Medical Centers'
   },
@@ -1118,28 +1294,44 @@ exports.categories = [
     'title': 'Mediterranean Restaurant'
   },
   {
+    'category_id': 508,
+    'title': 'Metal Fabricators'
+  },
+  {
     'category_id': 425,
     'title': 'Mexican Restaurant'
   },
   {
+    'category_id': 505,
+    'title': 'Microwave Oven Wholesale'
+  },
+  {
     'category_id': 426,
-    'title': 'Mcategory_iddle Eastern Restaurant'
+    'title': 'Middle Eastern Restaurant'
   },
   {
     'category_id': 123,
-    'title': 'Mcategory_iddle Schools & High Schools'
+    'title': 'Middle Schools & High Schools'
   },
   {
     'category_id': 213,
-    'title': 'Mcategory_idwives'
+    'title': 'Midwives'
   },
   {
     'category_id': 38,
     'title': 'Mini Golf'
   },
   {
+    'category_id': 553,
+    'title': 'Mobile Home Parks (mobileparks)'
+  },
+  {
     'category_id': 308,
     'title': 'Mobile Phone Repair'
+  },
+  {
+    'category_id': 581,
+    'title': 'Mobile Phones Store'
   },
   {
     'category_id': 427,
@@ -1178,6 +1370,10 @@ exports.categories = [
     'title': 'Museums'
   },
   {
+    'category_id': 560,
+    'title': 'Musical Instrument Services'
+  },
+  {
     'category_id': 150,
     'title': 'Musicians'
   },
@@ -1200,6 +1396,10 @@ exports.categories = [
   {
     'category_id': 189,
     'title': 'Neurologist'
+  },
+  {
+    'category_id': 556,
+    'title': 'Newspapers & Magazines'
   },
   {
     'category_id': 326,
@@ -1266,6 +1466,10 @@ exports.categories = [
     'title': 'Orthopedists'
   },
   {
+    'category_id': 502,
+    'title': 'Orthotics & Prosthetics'
+  },
+  {
     'category_id': 194,
     'title': 'Osteopathic Physicians'
   },
@@ -1286,16 +1490,16 @@ exports.categories = [
     'title': 'Painters'
   },
   {
+    'category_id': 528,
+    'title': 'Paint & Sip'
+  },
+  {
     'category_id': 93,
     'title': 'Parking'
   },
   {
     'category_id': 42,
     'title': 'Parks'
-  },
-  {
-    'category_id': 152,
-    'title': 'Part & Event Planning'
   },
   {
     'category_id': 153,
@@ -1306,12 +1510,20 @@ exports.categories = [
     'title': 'Party Equipment Rentals'
   },
   {
+    'category_id': 152,
+    'title': 'Party & Event Planning'
+  },
+  {
     'category_id': 155,
     'title': 'Party Supplies'
   },
   {
     'category_id': 486,
     'title': 'Paving Contractors'
+  },
+  {
+    'category_id': 588,
+    'title': 'Pawn Shops'
   },
   {
     'category_id': 363,
@@ -1328,10 +1540,6 @@ exports.categories = [
   {
     'category_id': 112,
     'title': 'Permanent Makeup'
-  },
-  {
-    'category_id': 492,
-    'title': 'Personal and Business Services'
   },
   {
     'category_id': 364,
@@ -1386,6 +1594,10 @@ exports.categories = [
     'title': 'Physical Therapy'
   },
   {
+    'category_id': 577,
+    'title': 'Piano Services'
+  },
+  {
     'category_id': 113,
     'title': 'Piercing'
   },
@@ -1396,6 +1608,10 @@ exports.categories = [
   {
     'category_id': 428,
     'title': 'Pizza Restaurant'
+  },
+  {
+    'category_id': 578,
+    'title': 'Plastic Fabricator'
   },
   {
     'category_id': 43,
@@ -1410,8 +1626,24 @@ exports.categories = [
     'title': 'Podiatrists'
   },
   {
+    'category_id': 583,
+    'title': 'Pond Contractors'
+  },
+  {
     'category_id': 252,
     'title': 'Pool Cleaners'
+  },
+  {
+    'category_id': 554,
+    'title': 'Portuguese'
+  },
+  {
+    'category_id': 595,
+    'title': 'Poultry Processor'
+  },
+  {
+    'category_id': 516,
+    'title': 'Powder Coatings'
   },
   {
     'category_id': 124,
@@ -1430,6 +1662,10 @@ exports.categories = [
     'title': 'Private Investigation'
   },
   {
+    'category_id': 566,
+    'title': 'Private Jet Charter'
+  },
+  {
     'category_id': 125,
     'title': 'Private Tutors'
   },
@@ -1440,6 +1676,14 @@ exports.categories = [
   {
     'category_id': 72,
     'title': 'Professional Sports Teams'
+  },
+  {
+    'category_id': 592,
+    'title': 'Promotional Products Supplier'
+  },
+  {
+    'category_id': 590,
+    'title': 'Promotional Services'
   },
   {
     'category_id': 376,
@@ -1472,6 +1716,10 @@ exports.categories = [
   {
     'category_id': 199,
     'title': 'Pulmonologists'
+  },
+  {
+    'category_id': 513,
+    'title': 'Pumpkin Patches'
   },
   {
     'category_id': 74,
@@ -1508,6 +1756,10 @@ exports.categories = [
   {
     'category_id': 218,
     'title': 'Reflexology'
+  },
+  {
+    'category_id': 548,
+    'title': 'Registration Services'
   },
   {
     'category_id': 219,
@@ -1570,6 +1822,10 @@ exports.categories = [
     'title': 'Screen store'
   },
   {
+    'category_id': 520,
+    'title': 'Scuba Diving'
+  },
+  {
     'category_id': 431,
     'title': 'Seafood Restaurant'
   },
@@ -1606,6 +1862,10 @@ exports.categories = [
     'title': 'Shared Office Spaces'
   },
   {
+    'category_id': 530,
+    'title': 'Sharpening Services'
+  },
+  {
     'category_id': 321,
     'title': 'Shipping Centers'
   },
@@ -1614,12 +1874,28 @@ exports.categories = [
     'title': 'Shoe Repair'
   },
   {
+    'category_id': 593,
+    'title': 'Shopping Center'
+  },
+  {
+    'category_id': 571,
+    'title': 'Shredding Service'
+  },
+  {
     'category_id': 452,
     'title': 'Shutters'
   },
   {
+    'category_id': 521,
+    'title': 'Signmaking'
+  },
+  {
     'category_id': 47,
     'title': 'Skating Rinks'
+  },
+  {
+    'category_id': 526,
+    'title': 'Skilled Nursing'
   },
   {
     'category_id': 115,
@@ -1628,6 +1904,10 @@ exports.categories = [
   {
     'category_id': 283,
     'title': 'Ski Resorts'
+  },
+  {
+    'category_id': 549,
+    'title': 'Ski & Snowboard Shops'
   },
   {
     'category_id': 48,
@@ -1658,12 +1938,20 @@ exports.categories = [
     'title': 'Solar Installation'
   },
   {
+    'category_id': 525,
+    'title': 'Southern Restaurant'
+  },
+  {
     'category_id': 432,
     'title': 'Spanish Restaurant'
   },
   {
     'category_id': 127,
     'title': 'Special Education'
+  },
+  {
+    'category_id': 552,
+    'title': 'Specialty Food (gourmet)'
   },
   {
     'category_id': 221,
@@ -1674,16 +1962,16 @@ exports.categories = [
     'title': 'Spin Classes'
   },
   {
+    'category_id': 600,
+    'title': 'Spiritual Shop'
+  },
+  {
     'category_id': 51,
     'title': 'Sports Clubs'
   },
   {
     'category_id': 200,
     'title': 'Sports Medicine'
-  },
-  {
-    'category_id': 507,
-    'title': 'sportz'
   },
   {
     'category_id': 52,
@@ -1696,6 +1984,10 @@ exports.categories = [
   {
     'category_id': 433,
     'title': 'Steakhouses'
+  },
+  {
+    'category_id': 569,
+    'title': 'Storage Covers'
   },
   {
     'category_id': 53,
@@ -1739,7 +2031,7 @@ exports.categories = [
   },
   {
     'category_id': 368,
-    'title': 'Taxcategory_idermy'
+    'title': 'Taxidermy'
   },
   {
     'category_id': 291,
@@ -1750,16 +2042,16 @@ exports.categories = [
     'title': 'Tax Services'
   },
   {
+    'category_id': 511,
+    'title': 'Telecommunications'
+  },
+  {
     'category_id': 267,
-    'title': 'Television Service Provcategory_iders'
+    'title': 'Television Service Providers'
   },
   {
     'category_id': 56,
     'title': 'Tennis'
-  },
-  {
-    'category_id': 502,
-    'title': 'testing'
   },
   {
     'category_id': 140,
@@ -1774,6 +2066,10 @@ exports.categories = [
     'title': 'Thai Restaurant'
   },
   {
+    'category_id': 596,
+    'title': 'Thrift Stores'
+  },
+  {
     'category_id': 77,
     'title': 'Ticket Sales'
   },
@@ -1784,6 +2080,10 @@ exports.categories = [
   {
     'category_id': 459,
     'title': 'Title Companies and Agents'
+  },
+  {
+    'category_id': 519,
+    'title': 'Tobacco Pipes & Cigars'
   },
   {
     'category_id': 449,
@@ -1818,6 +2118,10 @@ exports.categories = [
     'title': 'Translation Services'
   },
   {
+    'category_id': 558,
+    'title': 'Transmission Repair'
+  },
+  {
     'category_id': 286,
     'title': 'Transportation'
   },
@@ -1850,6 +2154,10 @@ exports.categories = [
     'title': 'Tutoring Centers'
   },
   {
+    'category_id': 574,
+    'title': 'Uniforms'
+  },
+  {
     'category_id': 380,
     'title': 'University Housing'
   },
@@ -1874,6 +2182,10 @@ exports.categories = [
     'title': 'Vacation Rentals'
   },
   {
+    'category_id': 579,
+    'title': 'Valet Parking'
+  },
+  {
     'category_id': 474,
     'title': 'Vape Shops'
   },
@@ -1895,15 +2207,15 @@ exports.categories = [
   },
   {
     'category_id': 370,
-    'title': 'Vcategory_ideo/Film Production'
+    'title': 'Video/Film Production'
   },
   {
     'category_id': 161,
-    'title': 'Vcategory_ideographers'
+    'title': 'Videographers'
   },
   {
     'category_id': 439,
-    'title': 'Viettitlese Restaurant'
+    'title': 'Vietnamese Restaurant'
   },
   {
     'category_id': 139,
@@ -1914,8 +2226,28 @@ exports.categories = [
     'title': 'Watch Repair'
   },
   {
+    'category_id': 514,
+    'title': 'Water Delivery'
+  },
+  {
+    'category_id': 580,
+    'title': 'Waterproofing'
+  },
+  {
+    'category_id': 582,
+    'title': 'Water Purification Services'
+  },
+  {
     'category_id': 371,
     'title': 'Web Design'
+  },
+  {
+    'category_id': 546,
+    'title': 'Web Hosting Service'
+  },
+  {
+    'category_id': 572,
+    'title': 'Wedding Chapels'
   },
   {
     'category_id': 162,
@@ -1926,12 +2258,24 @@ exports.categories = [
     'title': 'Weight Loss Centers'
   },
   {
+    'category_id': 541,
+    'title': 'Welding Supplies & Equipment'
+  },
+  {
+    'category_id': 575,
+    'title': 'Well Drilling'
+  },
+  {
     'category_id': 491,
     'title': 'Wellness retreat and Spa'
   },
   {
     'category_id': 271,
     'title': 'Windows Installation'
+  },
+  {
+    'category_id': 535,
+    'title': 'Window Tinting Services'
   },
   {
     'category_id': 270,
